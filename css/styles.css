@@ -765,7 +765,8 @@ strong {
 }
 
 .close-x {
-  fill: #000000;
+  top: 8px;
+  right: 8px;
 }
 
 .close-btn {
