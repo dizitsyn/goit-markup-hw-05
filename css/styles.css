@@ -271,6 +271,7 @@ strong {
   outline: none;
   color: var(--second-accent-color);
   background-color: var(--accent-color);
+  border-color: transparent;
 }
 
 /* Делаем кнопку */
@@ -766,8 +767,10 @@ strong {
 }
 
 .close-x {
-  top: 8px;
-  right: 8px;
+  top: 9px;
+  right: 10px;
+  fill: black;
+  z-index: 5;
 }
 
 .close-btn {
